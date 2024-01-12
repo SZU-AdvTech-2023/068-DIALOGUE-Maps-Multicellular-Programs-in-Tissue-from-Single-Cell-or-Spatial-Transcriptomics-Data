@@ -1,0 +1,10 @@
+@article{REPO068,
+    author = "Jerby-Arnon, Livnat and Regev, Aviv",
+    journal = "Nature biotechnology",
+    number = "10",
+    pages = "1467--1477",
+    publisher = "Nature Publishing Group US New York",
+    title = "{DIALOGUE Maps Multicellular Programs in Tissue from Single-Cell or Spatial Transcriptomics Data}",
+    volume = "40",
+    year = "2022"
+}
